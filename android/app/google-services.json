@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "400396182536",
+    "project_id": "sylvest-alpha-1-0",
+    "storage_bucket": "sylvest-alpha-1-0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400396182536:android:e6d1db3a89dff7bb049dbd",
+        "android_client_info": {
+          "package_name": "com.example.sylvest_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400396182536-mlba04o4jmbebag6be34qp6e0v5205pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZql6kCW_T_Tv5RwC_QoY5RGpXYkAVTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400396182536-mlba04o4jmbebag6be34qp6e0v5205pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400396182536-f1stkdlelrvu0kr9g0d9rcf8jfq1k94p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sylvetApp",
+                "app_store_id": "6443546600"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400396182536:android:132ccb4b52328966049dbd",
+        "android_client_info": {
+          "package_name": "com.example.sylvet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400396182536-mlba04o4jmbebag6be34qp6e0v5205pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZql6kCW_T_Tv5RwC_QoY5RGpXYkAVTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400396182536-mlba04o4jmbebag6be34qp6e0v5205pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400396182536-f1stkdlelrvu0kr9g0d9rcf8jfq1k94p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sylvetApp",
+                "app_store_id": "6443546600"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
