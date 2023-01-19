@@ -1,16 +1,10 @@
-# sylvest_flutter
+# Sylvest Flutter
 
-A new Flutter project.
+Sylvest is a social media platform that leverages Sylk Coin - a cryptocurrency coin - to enable users to gain crypto by the engagement they receive in the app.
 
-## Getting Started
+The app features fundable projects which can be funded by the aforementioned crypto coin, a sophisticated event system that allows users to show the nearest and most relevant events, and modular posts that are comprised of several elements that support videos, images, and online links.
 
-This project is a starting point for a Flutter application.
+It also features role-based communities alongside a real-time chat feature.
 
-A few resources to get you started if this is your first Flutter project:
+This is the repository of the mobile front end of the application which compiles to both Android and IOS.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
